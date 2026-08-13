@@ -1,4 +1,4 @@
-# Are Aging Parents and Adult Children Living Farther Apart?
+# Are aging parents and their adult children living farther apart?
 
 **Decomposing trends in intergenerational proximity and coresidence among Finnish parents aged 60–69 (2003–2023)**
 
