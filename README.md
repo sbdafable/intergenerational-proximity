@@ -35,7 +35,7 @@ Contains all main and supplementary plots. The R code used to generate them is a
 
 ### `postcodes/`
 
-Contains the R file `flcentroids`, used for generating postcode centroids, geodesic distances, and a map of Finnish postcodes. Also includes a copy of the `osrmtime` command by Christoph Rust: [github.com/christophrust/osrmtime](https://github.com/christophrust/osrmtime).
+Contains the R file `flcentroids`, used for generating postcode centroids, geodesic distances, and a map of Finnish postcodes. It requires installation of the `osrmtime` command by Christoph Rust: [github.com/christophrust/osrmtime](https://github.com/christophrust/osrmtime).
 
 ## Description of Stata Do Files
 
