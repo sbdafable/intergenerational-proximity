@@ -7,7 +7,7 @@
 | **Journal** | Social Forces |
 | **DOI** | [10.1093/sf/soag043](https://doi.org/10.1093/sf/soag043) |
 | **Authors** | Sanny D Afable, Megan Evans, Kaarina Korhonen, Yana Vierboom, Pekka Martikainen, Mikko Myrskylä, Hill Kulu |
-| **Contact** | [sba4@st-andrews.ac.uk](mailto:sba4@st-andrews.ac.uk) |
+| **Contact** | Sanny D Afable [sba4@st-andrews.ac.uk](mailto:sba4@st-andrews.ac.uk) |
 
 ## Overview
 
